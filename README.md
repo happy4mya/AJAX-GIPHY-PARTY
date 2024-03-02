@@ -1,1 +1,1 @@
-#Giphy Party!
+Giphy Party!
